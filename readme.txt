@@ -1,9 +1,8 @@
-#界面介绍
+# 界面介绍
+![image](https://github.com/tisoz/rapid-json-parser-with-e/blob/main/GUI1.jpg)
+![image](https://github.com/tisoz/rapid-json-parser-with-e/blob/main/GUI2.png)
 
-
-
-
-#安装说明
+# 安装说明
 msyh.ttc字体文件放到
 C:\Windows\Fonts目录下
 或双击字体安装
